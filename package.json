@@ -13,7 +13,10 @@
     "cover 99.5%"
   ],
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^7.0.2"
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "postcss": "^8.4.49",
+    "postcss-sort-media-queries": "^5.2.0",
+    "vite-plugin-image-optimizer": "^1.1.8"
   },
   "dependencies": {
     "animejs": "^3.2.2",
@@ -22,6 +25,8 @@
     "fast-glob": "^3.3.2",
     "imagemin": "^9.0.0",
     "imagemin-webp": "^8.0.0",
-    "postcss": "^8.4.49"
+    "sass": "^1.81.0",
+    "sharp": "^0.33.5",
+    "vite": "^5.4.11"
   }
 }
