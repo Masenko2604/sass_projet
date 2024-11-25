@@ -785,7 +785,7 @@ summary {
   background-color: #92929d;
 }
 .btn--default:active {
-  background-color: #777785;
+  background-color: rgb(119.3043478261, 119.3043478261, 132.6956521739);
 }
 .btn--default[disabled] {
   background-color: #b5b5be;
@@ -796,7 +796,7 @@ summary {
   background-color: #fc5a5a;
 }
 .btn--danger:active {
-  background-color: #fb2828;
+  background-color: rgb(251.0892857143, 39.9107142857, 39.9107142857);
 }
 .btn--danger[disabled] {
   background-color: #b5b5be;
@@ -807,7 +807,7 @@ summary {
   background-color: #a461d8;
 }
 .btn--warning:active {
-  background-color: #8c38ce;
+  background-color: rgb(140.4416243655, 56.0964467005, 205.9035532995);
 }
 .btn--warning[disabled] {
   background-color: #b5b5be;
@@ -818,7 +818,7 @@ summary {
   background-color: #82c43c;
 }
 .btn--success:active {
-  background-color: #689d30;
+  background-color: rgb(104.1141732283, 157.3818897638, 47.6181102362);
 }
 .btn--success[disabled] {
   background-color: #b5b5be;
@@ -829,7 +829,7 @@ summary {
   background-color: #4e75ff;
 }
 .btn--info:active {
-  background-color: #1b4dff;
+  background-color: rgb(27, 77.2372881356, 255);
 }
 .btn--info[disabled] {
   background-color: #b5b5be;
@@ -1163,19 +1163,19 @@ summary {
     color: #f15c27;
   }
   .btn--default:hover, .btn--default:focus {
-    background-color: #adadb5;
+    background-color: rgb(172.8550724638, 172.8550724638, 181.1449275362);
   }
   .btn--danger:hover, .btn--danger:focus {
-    background-color: #fd8c8c;
+    background-color: rgb(252.9107142857, 140.0892857143, 140.0892857143);
   }
   .btn--warning:hover, .btn--warning:focus {
-    background-color: #bc8ae2;
+    background-color: rgb(187.5583756345, 137.9035532995, 226.0964467005);
   }
   .btn--success:hover, .btn--success:focus {
-    background-color: #9bd063;
+    background-color: rgb(155.0984251969, 207.8464566929, 99.1535433071);
   }
   .btn--info:hover, .btn--info:focus {
-    background-color: #819dff;
+    background-color: rgb(129, 156.7627118644, 255);
   }
   .btn--frame:hover, .btn--frame:focus {
     border-color: #f15c27;
