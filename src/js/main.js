@@ -2,7 +2,7 @@
 import '../scss/main.scss';
 
 
-import * as bodyScrollLock from "body-scroll-lock";
+import * as bodyScrollLock from "/body-scroll-lock";
 
 // Sidebar menu
 const refsMenu = {
